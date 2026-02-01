@@ -1,4 +1,4 @@
-**Objective**
+**Objective** \n
 
 The goal of this project is to analyze the coffee sales data from 14 cities on various parameters and conclude the three top performing cities in terms of revenue, customer count, estimated rent, average sales per customer and average rent per customer.
 
