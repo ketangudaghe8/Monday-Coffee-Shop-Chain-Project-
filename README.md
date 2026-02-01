@@ -42,6 +42,8 @@ The goal of this project is to analyze the coffee sales data from 14 cities on v
 
    Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated  coffee consumer
 
+   
+
 
 **City recommendations on the basis of analysis** 
   
