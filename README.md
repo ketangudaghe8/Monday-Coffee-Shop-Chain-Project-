@@ -45,6 +45,8 @@ The goal of this project is to analyze the coffee sales data from 14 cities on v
    
 
 
+
+
 **City recommendations on the basis of analysis** 
   
   **1) Jaipur**
